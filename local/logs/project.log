@@ -1,0 +1,142 @@
+2022-12-21T09:48:29.924Z - success: protocol editor-framework registered
+2022-12-21T09:48:29.924Z - success: protocol app registered
+2022-12-21T09:48:29.924Z - success: protocol theme registered
+2022-12-21T09:48:29.924Z - success: protocol packages registered
+2022-12-21T09:48:29.934Z - normal: Load ~/.CocosCreator/settings.json
+2022-12-21T09:48:29.946Z - success: protocol uuid registerred
+2022-12-21T09:48:29.946Z - success: protocol db registerred
+2022-12-21T09:48:29.946Z - success: protocol thumbnail registerred
+2022-12-21T09:48:29.989Z - normal: Initializing Asset Database
+2022-12-21T09:48:29.991Z - normal: checking language setting...
+2022-12-21T09:48:29.991Z - normal: Language: zh
+2022-12-21T09:48:29.992Z - success: protocol unpack registerred
+2022-12-21T09:48:29.992Z - success: protocol disable-commonjs registerred
+2022-12-21T09:48:31.959Z - normal: connected!
+2022-12-21T09:48:32.186Z - normal: Check project E:\GameProjects\start_project
+2022-12-21T09:48:32.187Z - normal: Initializing project E:\GameProjects\start_project
+2022-12-21T09:48:32.295Z - success: adapters loaded
+2022-12-21T09:48:32.297Z - success: asset-db-debugger loaded
+2022-12-21T09:48:32.334Z - success: fb-audience-network loaded
+2022-12-21T09:48:32.359Z - success: fb-live-stream loaded
+2022-12-21T09:48:32.362Z - success: google-play-instant loaded
+2022-12-21T09:48:32.362Z - success: jsb-adapter loaded
+2022-12-21T09:48:32.364Z - success: package-manager loaded
+2022-12-21T09:48:32.365Z - success: runtime-adapters loaded
+2022-12-21T09:48:32.366Z - success: runtime-dev-tools loaded
+2022-12-21T09:48:32.368Z - success: ui-kit-preview-extra loaded
+2022-12-21T09:48:32.369Z - success: ui-kit-preview loaded
+2022-12-21T09:48:32.810Z - success: alipay-minigame loaded
+2022-12-21T09:48:32.815Z - success: assets loaded
+2022-12-21T09:48:32.817Z - success: baidugame-opendata loaded
+2022-12-21T09:48:32.818Z - success: baidugame loaded
+2022-12-21T09:48:32.820Z - success: builder loaded
+2022-12-21T09:48:32.822Z - success: bytedance-opendata loaded
+2022-12-21T09:48:32.824Z - success: bytedance loaded
+2022-12-21T09:48:32.827Z - success: channel-upload-tools loaded
+2022-12-21T09:48:32.906Z - success: cloud-function loaded
+2022-12-21T09:48:33.027Z - success: cocos-services loaded
+2022-12-21T09:48:33.029Z - success: console loaded
+2022-12-21T09:48:33.031Z - success: curve-editor loaded
+2022-12-21T09:48:33.039Z - success: fb-instant-games loaded
+2022-12-21T09:48:33.043Z - success: game-window loaded
+2022-12-21T09:48:33.044Z - success: google-instant-games loaded
+2022-12-21T09:48:33.046Z - success: hierarchy loaded
+2022-12-21T09:48:33.048Z - success: huawei-agc loaded
+2022-12-21T09:48:33.051Z - success: huawei-runtime loaded
+2022-12-21T09:48:33.053Z - success: inspector loaded
+2022-12-21T09:48:33.064Z - success: cpk-publish loaded
+2022-12-21T09:48:33.065Z - success: keystore loaded
+2022-12-21T09:48:33.077Z - success: link-sure-runtime loaded
+2022-12-21T09:48:33.083Z - success: node-library loaded
+2022-12-21T09:48:33.083Z - success: open-recent-items loaded
+2022-12-21T09:48:33.086Z - success: oppo-runtime loaded
+2022-12-21T09:48:33.087Z - success: package-asset loaded
+2022-12-21T09:48:33.088Z - success: preferences loaded
+2022-12-21T09:48:33.090Z - success: project-importer loaded
+2022-12-21T09:48:33.091Z - success: project-settings loaded
+2022-12-21T09:48:33.101Z - success: qtt-runtime loaded
+2022-12-21T09:48:33.103Z - success: scene loaded
+2022-12-21T09:48:33.104Z - success: simulator-debugger loaded
+2022-12-21T09:48:33.105Z - success: sprite-editor loaded
+2022-12-21T09:48:33.142Z - success: store loaded
+2022-12-21T09:48:33.145Z - success: taobao-creativeapp loaded
+2022-12-21T09:48:33.147Z - success: timeline loaded
+2022-12-21T09:48:33.150Z - success: vivo-runtime loaded
+2022-12-21T09:48:33.152Z - success: wechatgame-opendata loaded
+2022-12-21T09:48:33.155Z - success: wechatgame loaded
+2022-12-21T09:48:33.158Z - success: xiaomi-runtime loaded
+2022-12-21T09:48:33.198Z - success: im-plugin loaded
+2022-12-21T09:48:33.199Z - success: preview server running at http://localhost:7456
+2022-12-21T09:48:33.623Z - normal: Initializing Cocos2d
+2022-12-21T09:48:33.893Z - normal: Initializing engine extends
+2022-12-21T09:48:34.532Z - normal: Loading packages
+2022-12-21T09:48:34.535Z - normal: Run Application
+2022-12-21T09:48:35.299Z - info: Cocos Service load base data!
+2022-12-21T09:48:38.509Z - success: cloud-function unloaded
+2022-12-21T10:16:31.995Z - failed: [db-task][sync-changes] Failed to import asset E:\GameProjects\start_project\assets\scripts\Game.js, message: Compile error: SyntaxError: E:\GameProjects\start_project\assets\scripts\Game.js: Unexpected token (133:11)
+
+  131 |         this.timer += dt;
+  132 |
+> 133 |         if()
+      |            ^
+  134 |     },
+  135 |
+  136 |     gainScore(){
+    at instantiate (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:72:32)
+    at constructor (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:359:12)
+    at Parser.raise (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:3339:19)
+    at Parser.unexpected (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:3377:16)
+    at Parser.parseExprAtom (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:13123:22)
+    at Parser.parseExprSubscripts (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12648:23)
+    at Parser.parseUpdate (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12627:21)
+    at Parser.parseMaybeUnary (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12598:23)
+    at Parser.parseMaybeUnaryOrPrivate (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12392:61)
+    at Parser.parseExprOps (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12399:23)
+2022-12-21T10:28:24.862Z - error: Can not find cc.Component in the script 75ad2ExrTNDSpTqclFm5t5B.
+    at Object.g [as checkAddComponentID] (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\page\scene-utils\utils\scene.ccc:1:1849)
+    at E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.ccc:1:1635
+    at o (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.ccc:1:348)
+    at HTMLElement.add-component (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.ccc:1:1624)
+    at Object._dispatch (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor-framework\lib\renderer\panel.ccc:1:1750)
+    at EventEmitter.<anonymous> (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor-framework\lib\renderer\ipc.ccc:1:2816)
+    at EventEmitter.emit (events.js:315:20)
+    at Object.onMessage (electron/js2c/renderer_init.js:93:1117)
+2022-12-21T10:28:33.822Z - error: Can not find cc.Component in the script 75ad2ExrTNDSpTqclFm5t5B.
+    at Object.g [as checkAddComponentID] (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\page\scene-utils\utils\scene.ccc:1:1849)
+    at E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.ccc:1:1635
+    at o (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.ccc:1:348)
+    at HTMLElement.add-component (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.ccc:1:1624)
+    at Object._dispatch (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor-framework\lib\renderer\panel.ccc:1:1750)
+    at EventEmitter.<anonymous> (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\editor-framework\lib\renderer\ipc.ccc:1:2816)
+    at EventEmitter.emit (events.js:315:20)
+    at Object.onMessage (electron/js2c/renderer_init.js:93:1117)
+2022-12-22T12:04:27.260Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:239577
+2022-12-23T01:30:57.515Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:414423
+2022-12-23T09:30:15.519Z - warn: The cached node data cannot be found.
+2022-12-23T15:31:49.283Z - failed: [db-task][sync-changes] Failed to import asset E:\GameProjects\start_project\assets\scripts\Game.js, message: Compile error: SyntaxError: E:\GameProjects\start_project\assets\scripts\Game.js: Unexpected token (179:32)
+
+  177 |     },
+  178 |     despawnScoreFX(){
+> 179 |         this.scorePool.put(this.)
+      |                                 ^
+  180 |     },
+  181 |     despawnStar(star){  //Star.js--onPicked()调用
+  182 |         this.starPool.put(star);
+    at instantiate (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:72:32)
+    at constructor (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:359:12)
+    at Parser.raise (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:3339:19)
+    at Parser.unexpected (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:3377:16)
+    at Parser.parseIdentifierName (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:14085:18)
+    at Parser.parseIdentifier (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:14065:23)
+    at Parser.parseMember (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12727:28)
+    at Parser.parseSubscript (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12701:21)
+    at Parser.parseSubscripts (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12665:19)
+    at Parser.parseExprSubscripts (E:\Softwares\CocosDashboard\resources\.editors\Creator\2.4.10\resources\app.asar\node_modules\@babel\parser\lib\index.js:12654:17)
+2022-12-24T02:43:19.321Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "4258a802-65ed-490f-a4f9-71d1dd56f4b8"
+
+2022-12-24T02:43:19.322Z - warn: The Asset used is missing. Detailed information:
+Missing uuid: "4258a802-65ed-490f-a4f9-71d1dd56f4b8"
+
+2022-12-24T11:49:25.547Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1249738
+2022-12-24T12:36:32.300Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1275074
